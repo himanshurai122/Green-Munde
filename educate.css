@@ -1,0 +1,16 @@
+.text-center{
+ width: 50%;
+
+
+}
+.head{
+    color:crimson;
+   
+    text-align: center;
+
+
+}
+body{
+    padding-top: 30px;
+    background-image: url(backk.jpg);
+}
